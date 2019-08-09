@@ -1,0 +1,24 @@
+{
+  "name": "awesome-templates",
+  "version": "1.0.0",
+  "private": false,
+  "repository": "https://github.com/PabloSzx/awesome-templates",
+  "license": "MIT",
+  "author": "PabloSz <pablosaez1995@gmail.com>",
+  "scripts": {
+    "build": "next build",
+    "dev": "next",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^9.0.3",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.1",
+    "@types/react": "^16.9.1",
+    "@types/react-dom": "^16.8.5",
+    "typescript": "^3.5.3"
+  }
+}
